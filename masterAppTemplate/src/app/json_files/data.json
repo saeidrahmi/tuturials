@@ -1,0 +1,12 @@
+{
+    "todos" : [
+        {"id": 1, "task": "first task"},
+        {"id": 2, "task": "second task"}
+    ],
+    "users": [
+        {"id": 1, "first_name": "sam", "last_name": "rami"},
+        {"id": 2, "first_name": "joe", "last_name": "gray"}
+
+       
+    ]
+}
